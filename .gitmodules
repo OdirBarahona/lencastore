@@ -1,0 +1,3 @@
+[submodule "lencastore"]
+	path = lencastore
+	url = https://github.com/OdirBarahona/lencastore
